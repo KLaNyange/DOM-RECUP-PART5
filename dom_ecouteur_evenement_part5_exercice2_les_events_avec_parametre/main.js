@@ -35,7 +35,7 @@ function hasard() {
             div.style.background = "red"
             break;
         case 3:
-            divstyle.border = "dotted gold 5px"
+            div.style.border = "dotted gold 5px"
             break;
     }
 }
